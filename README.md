@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arzxy Modz (from Indonesian)
-- 👀 Youtube :: Arzxy Modz :)
-- 🌱 Discord :: QfVEVTY
+- 📌 Hi, I’m Arzxy Modz
+- 🔸 Youtube :: Arzxy Modz :)
+- 🔸 Discord :: QfVEVTY
 
 <!---
 akmalrizki0102/akmalrizki0102 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
