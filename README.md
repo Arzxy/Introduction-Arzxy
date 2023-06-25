@@ -1,5 +1,5 @@
-- 📌 Hi, I’m Arzxy Modz
-- 🔸 Youtube :: Arzxy Modz :)
+- 📌 Hi, I’m Muhammad Akmal Rizki
+- 🔸 Youtube :: ArzxyModz
 - 🔸 Discord :: QfVEVTY
 
 <!---
